@@ -11,9 +11,12 @@ subject, and export all logs into a CSV file for offline reference.
 This project demonstrates practical usage of Java Collections, File I/0, and Object-
 Oriented Design in a real-world, utility-driven application.
 
+
 + Technology: Java
 
+
 * Key Features
+
 
    * Insert Study Log 
    
@@ -39,7 +42,7 @@ Oriented Design in a real-world, utility-driven application.
    
    * User-Friendly Console Menu
    
-   Menu-driven interface with switch-case navigation for ease of use.
+     Menu-driven interface with switch-case navigation for ease of use.
 
 
 + Technologies Used
@@ -53,6 +56,7 @@ Oriented Design in a real-world, utility-driven application.
        java.time.LocalDate — Auto-captures the current date for study logs.
 
        java.io.* — File handling and CSV export.
+
 
 + Project Flow
 
@@ -70,6 +74,7 @@ Oriented Design in a real-world, utility-driven application.
      6.Choice 5: Export all study logs to MarvellousStudy.csv.
   
      7.Choice 6: Exit application.
+
 
 + Classes & Responsibilities
 
