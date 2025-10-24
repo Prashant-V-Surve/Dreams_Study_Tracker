@@ -49,28 +49,28 @@ Oriented Design in a real-world, utility-driven application.
 
    « Packages & APIs:
 
-    java.util.* — Data structures (ArrayList, TreeMap), user input via Scanner.
+     java.util.* — Data structures (ArrayList, TreeMap), user input via Scanner.
 
-    java.time.LocalDate — Auto-captures the current date for study logs.
+     java.time.LocalDate — Auto-captures the current date for study logs.
 
-    java.io.* — File handling and CSV export.
+     java.io.* — File handling and CSV export.
 
 + Project Flow
 
-   1.Launch the application + Main Menu displayed.
-
-   2.Choice 1: Insert new study log = User provides subject, duration, description — Date
-     auto-generated.
-
-   3.Choice 2: Display all study logs stored in memory.
-
-   4.Choice 3: Display summary grouped by date (total hours per day).
-
-   5.Choice 4: Display summary grouped by subject (total hours per subject).
-
-   6.Choice 5: Export all study logs to MarvellousStudy.csv.
-
-   7.Choice 6: Exit application.
+     1.Launch the application + Main Menu displayed.
+  
+     2.Choice 1: Insert new study log = User provides subject, duration, description — Date
+       auto-generated.
+  
+     3.Choice 2: Display all study logs stored in memory.
+  
+     4.Choice 3: Display summary grouped by date (total hours per day).
+  
+     5.Choice 4: Display summary grouped by subject (total hours per subject).
+  
+     6.Choice 5: Export all study logs to MarvellousStudy.csv.
+  
+     7.Choice 6: Exit application.
 
 + Classes & Responsibilities
 
