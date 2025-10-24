@@ -32,8 +32,4 @@ Technology: Java
    Export all study logs into a CSV file (MarvellousStudy.csv) for offline
    tracking.
    
-
-A JL DRIER
-
-L064
 
