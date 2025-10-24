@@ -1,6 +1,5 @@
 # Dreams_Study_Tracker
 
-
 Project Overview
 
 The Dreams Study Tracker App is a console-based Java application designed to
@@ -102,13 +101,14 @@ Oriented Design in a real-world, utility-driven application.
 
 + Example Usage (Console Flow)
 
-  Dreams Study Tracker
-1. Insert Study Log
-2. Display All Logs
-3. Summary By Date
-4. Summary By Subject
-5. Export to CSV
-6. Exit
+**************************** Dreams Study Tracker ****************************
+
+  1. Insert Study Log
+  2. Display All Logs
+  3. Summary By Date
+  4. Summary By Subject
+  5. Export to CSV
+  6. Exit
 
 Enter choice: 1
 
@@ -121,3 +121,4 @@ Sample Exported CSV (Dreams.csv)
 Date, Subject, Duration, Description
 2025-09-13,Java Programming, 2.5,Practiced ArrayList and TreeMap
 2025-09-13,Database, 1.5,Revised SQL Joins
+*******************************************************************************
